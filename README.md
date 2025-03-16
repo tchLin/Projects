@@ -16,7 +16,10 @@
 </p>
 
 ## Key Features
-
+* /path/to/directory - function and description
+  - Key notes
+* /path/to/script - function and description
+  - Key notes
 * Lorem Ipsum - Dolor Sit Amet
   - Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 * Duis Aute Irure Dolor
