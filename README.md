@@ -13,7 +13,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#project-description">Project Description</a> •
-  <a href="#data-location">Data Location</a>
+  <a href="#data-locations">Data Locations</a>
 </p>
 
 ## Key Features
