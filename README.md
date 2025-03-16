@@ -3,11 +3,11 @@
   <br>
   <a href="https://www.bu.edu/spark/"><img src="https://www.bu.edu/spark/files/2023/08/logo.png" alt="BUSpark" width="200"></a>
   <br>
-  Project readme Template #change to project name
+  Project readme Template <change to project name>
   <br>
 </h1>
 
-<h4 align="center">A template for the project readme file. </h4> #change to repo short description
+<h4 align="center">A template for the project readme file. </h4> <change to repo short description>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -28,8 +28,8 @@
 * Veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 * Data location
-  - Location 1: <location> [description]
-  - Location 2: <location> [description]
+  - Location 1: [location] [description]
+  - Location 2: [location] [description]
 
 ## How To Use
 
