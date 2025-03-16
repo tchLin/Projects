@@ -21,6 +21,8 @@
   - Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 * Duis Aute Irure Dolor
   - Excepteur sint occaecat
+* Excepteur Sint Occaecat
+  - Curabitur efficitur, nunc non ultricies gravida, felis purus posuere eros, sed faucibus sapien est nec quam. Nulla at nisl nisl.
  
 ## Project Description
 
